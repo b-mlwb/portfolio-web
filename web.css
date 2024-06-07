@@ -1,7 +1,7 @@
 @font-face {
             font-family: 'Copperplate', 'Garamond';
-            src: url('copperplate/OPTICopperplate.otf') format('opentype');
-            src: url('cormorant-garamond/CormorantGaramond-Light.otf') format('truetype') /* Add more formats as needed */
+            src: url('fonts/OPTICopperplate.otf') format('opentype');
+            src: url('fonts/CormorantGaramond-Light.ttf') format('truetype') /* Add more formats as needed */
         }
 
 
